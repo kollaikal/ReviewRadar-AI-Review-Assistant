@@ -27,7 +27,9 @@ scikit-learn
 ## Usage
 Running the App
 Run the Streamlit app (app.py) to start the interface:
-```streamlit run app.py```
+```
+streamlit run app.py
+```
 This will launch a local server where you can interact with the application via your web browser.
 
 ## Processing Reviews
