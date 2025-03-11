@@ -66,6 +66,8 @@ Feel free to fork this repository and contribute by creating issues or submittin
 ## License
 This project is licensed under the MIT License.
 
-```This README gives an overview of your project, explains the installation and usage, and describes how the key features work. You can customize it further as needed!```
+```
+This README gives an overview of your project, explains the installation and usage, and describes how the key features work. You can customize it further as needed!
+```
 
 
